@@ -1,3 +1,3 @@
-;(function($){
-    console.log('admin.js');
-})(jQuery);
+$(function () {
+    //console.log('admin.js');
+});
